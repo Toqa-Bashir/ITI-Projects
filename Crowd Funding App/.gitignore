@@ -1,0 +1,55 @@
+<<<<<<< HEAD
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Test results
+coverage/
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Byte-compiled and distribution files
+build/
+dist/
+*.egg-info/
+
+# Ignore video or large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore database or local data files
+*.sqlite
+*.db
+*.csv
+*.tsv
+=======
+.env
+node_modules
+>>>>>>> 2a814232fefae679f82362197a234ed7c069d623

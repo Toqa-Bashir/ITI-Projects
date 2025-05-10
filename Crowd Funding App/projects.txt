@@ -1,0 +1,6 @@
+Pure Water:Connect abandon houses with water sources:Development:200000:1/3/2025 - 1/3/2026 
+Smart Brains:Providing children with basic education:Education:250,000:1/1/2025 - 1/1/2026 
+Sweet Home:Repairing construction of houses and roofs:Development:100,000:1/2/2025 - 1/2/2026 
+Better Health:Providing free madical services:Health :500,000:2025-2027
+Programming:python lessons:tech:1000:2025 - 2027 Donations : 500 
+
